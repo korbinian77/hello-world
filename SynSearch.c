@@ -26,6 +26,9 @@ int main(int argc, char *argv[]) {
     init(argc, argv);
     printf("init\n");
 
+
+	printf("This printf is only in the branch")
+
     readInputFile();
     printf("read file\n");
 

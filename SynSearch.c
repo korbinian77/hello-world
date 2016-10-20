@@ -28,6 +28,9 @@ int main(int argc, char *argv[]) {
 
 
 	printf("This printf is only in the branch")
+printf("UNd noch wasi\n")
+
+
 
     readInputFile();
     printf("read file\n");
